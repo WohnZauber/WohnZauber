@@ -80,7 +80,7 @@ body {
   -o-transition: all 500ms ease;
   transition: all 500ms ease;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 748px) {
   .flex-slide {
     overflow: auto;
     overflow-x: hidden;
