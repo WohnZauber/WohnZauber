@@ -18,7 +18,7 @@
 				top: '15%'
 			});
 			$(this).find('.flex-about').css({
-				opacity: '0'
+				opacity: '01'
 			});
 		})
 	});
